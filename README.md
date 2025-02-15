@@ -71,7 +71,4 @@ Future Improvements
 - Custom short URL aliases
 - Analytics dashboard to track usage statistics
 
-![Screenshot (122)](https://github.com/user-attachments/assets/b6fe6905-5740-474f-8198-c68ee80c224f)
-![Screenshot (123)](https://github.com/user-attachments/assets/a0ae336c-84b0-4e7a-aef5-4960d97e3bcd)
-![Screenshot (124)](https://github.com/user-attachments/assets/3da146a9-2c5c-487c-ae90-90277fa10c36)
-![Screenshot (125)](https://github.com/user-attachments/assets/4d1505e7-ed66-4319-b3c5-6c7c513e1aa8)
+![Screenshot (124)](https://github.com/user-attachments/assets/fbe032c0-c8c1-4c50-bfc8-54652ee24754)
